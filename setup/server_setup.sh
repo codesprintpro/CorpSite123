@@ -1,4 +1,4 @@
-#comment
+#comment hjh
 sudo apt-get install curl nginx default-jdk
 sudo groupadd tomcat
 sudo useradd -s /bin/false -g tomcat -d /opt/tomcat tomcat
